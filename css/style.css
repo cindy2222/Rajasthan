@@ -1,0 +1,27 @@
+body {background-color:#D8BFD8}
+
+h1 {font-family: fantasy; text-align: center; background-color:#78637A;}
+
+.topnav {width: 100%;height: 100px; background-color:#917094; 
+        text-align: right;
+}
+
+li {display: inline-block;margin-right: 15px;}
+  
+a {color: pink;text-decoration: none}
+
+.logo {float: left; width: 20%; text-align: left;}
+
+.upnav {width: 70%; float: right;}
+
+.center_with_border {border: 2px solid purple; width: 75%; margin: auto;}
+
+footer {background-color:#78637A; text-align: center;}
+
+
+
+
+
+
+
+ 
